@@ -3,9 +3,9 @@
 
 > *"Ne pas combattre l'entropie. La suspendre."*
 
-[![Version](https://img.shields.io/badge/Version-1.0_Genesis-blue?style=for-the-badge&logo=appveyor)](https://github.com/ton-user/ursa)
+[![Version](https://img.shields.io/badge/Version-1.0_Genesis-red?style=for-the-badge&logo=appveyor)](https://github.com/ton-user/ursa)
 [![Status](https://img.shields.io/badge/Status-Concept_Architecture-orange?style=for-the-badge)](https://github.com/ton-user/ursa)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge&logo=apache)](https://opensource.org/licenses/Apache-2.0)
 [![Biomimicry](https://img.shields.io/badge/Inspired_By-Tardigrade-purple?style=for-the-badge&logo=molecule)](https://fr.wikipedia.org/wiki/Tardigrada)
 
 ---
